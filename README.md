@@ -33,3 +33,6 @@ Python module that uses the PostgreSQL database to keep track of players and mat
 ###References
 -[Table Design](https://discussions.udacity.com/t/p2-normalized-table-design/19927/11)
 
+
+-[Loop by two](http://stackoverflow.com/questions/2990121/how-do-i-loop-through-a-python-list-by-twos)
+
